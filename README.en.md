@@ -6,7 +6,8 @@
     AI Product Manager · Product Design &amp; Development<br>
     <img src="assets/motto-en.svg" alt="Turning ideas into experiences with warmth." width="600" height="40"><br>
     <a href="https://whe7962-dev.github.io/whe7962-dev-midou-pet-partner/">Pet Partner · live demo</a> &nbsp;·&nbsp;
-    <a href="https://github.com/whe7962-dev/whe7962-dev-midou-pet-partner">source code</a>
+    <a href="https://github.com/whe7962-dev/whe7962-dev-midou-pet-partner">source code</a> &nbsp;·&nbsp;
+    <a href="#writing">writing · Wren的回响</a>
   </samp>
 </p>
 
@@ -33,6 +34,16 @@ The project explores how to organize pet care scenarios—from health questions 
 [Try the demo ↗](https://whe7962-dev.github.io/whe7962-dev-midou-pet-partner/) · [Explore the source ↗](https://github.com/whe7962-dev/whe7962-dev-midou-pet-partner)
 
 <sub>Current stage: a brand and interaction showcase. AI and consultation features are illustrative and are not connected to live services.</sub>
+
+<a id="writing"></a>
+
+### Writing · Wren的回响
+
+I write in Chinese on my WeChat publication, Wren的回响, about AI practice, context engineering, privacy, and creating better content.
+
+- [“提示词时代”落幕，正式进入“上下文工程时代”](https://mp.weixin.qq.com/s/FxbHFQXjnMcHvb8R3wSC-g)
+- [聊天记录，正在从树洞变成证物](https://mp.weixin.qq.com/s/45xJVEhH5h7G0E2i1V5CjA)
+- [如何用少量 Token，做出 ACE 级表现和高质量内容？](https://mp.weixin.qq.com/s/xDsBUNws2ss3bXDoBxrgNQ)
 
 ### Questions I'm exploring
 
