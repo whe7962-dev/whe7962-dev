@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-    <b>Winnie</b><br>
+    <b>Winnie-何选（何宏）</b><br>
     AI 产品经理 · 产品设计与开发<br>
     <img src="assets/motto-zh.svg" alt="把想法做成有温度的体验。" width="600" height="40"><br>
     <a href="https://github.com/whe7962-dev/whe7962-dev-midou-pet-partner">项目源码</a>
