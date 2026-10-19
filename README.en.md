@@ -10,6 +10,34 @@
   </samp>
 </p>
 
-<p align="center">
-  <sub>Building Pet Partner — exploring brand experiences and web interactions for science-informed pet care.</sub>
-</p>
+---
+
+### About me
+
+I'm Winnie, an AI product manager interested in product design and development.
+
+I care about how an idea becomes something people can understand and want to use: shaping the requirements, designing the interface, and building a version they can try. This is where I share my projects and the questions that emerge along the way.
+
+> Build something people can try. Let that help shape the next step.
+
+### Work in progress · Pet Partner
+
+**A brand and web interaction prototype for science-informed pet care.**
+
+The project explores how to organize pet care scenarios—from health questions and nutrition to everyday companionship—into clear product entry points.
+
+- **Product communication**: organize five feature areas around concrete pet care scenarios.
+- **Experience design**: bring together a companion character, everyday stories, and subtle motion.
+- **Development practice**: build responsive pages with HTML / CSS / JavaScript, including keyboard support and reduced-motion preferences.
+
+[Try the demo ↗](https://whe7962-dev.github.io/whe7962-dev-midou-pet-partner/) · [Explore the source ↗](https://github.com/whe7962-dev/whe7962-dev-midou-pet-partner)
+
+<sub>Current stage: a brand and interaction showcase. AI and consultation features are illustrative and are not connected to live services.</sub>
+
+### Questions I'm exploring
+
+- **AI products**: which step in a user's task can AI make easier?
+- **Product design**: how can features be easier to understand and interactions give clearer feedback?
+- **Design to development**: how can I turn an idea into a prototype sooner, then use feedback to decide what comes next?
+
+<sub>Happy to exchange ideas about the work—and hear what could be better.</sub>
